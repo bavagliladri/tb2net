@@ -22,8 +22,8 @@ Twitter: [@bavagliladri](https://twitter.com/bavagliladri)
 
 #### Guglielmo Inglese
 
-KU Leuven (Belgium)
+Univesity
 
-Email: guglielmo.inglese@kuleuven.be
+Email:
 
 ### The code will be soon available
