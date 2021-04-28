@@ -26,6 +26,10 @@ Univesity
 
 Email:
 
+## License
+
+Licensed under the MIT [License](LICENSE)
+
 ===================================
 
 ### The code will be soon available
