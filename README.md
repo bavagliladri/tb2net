@@ -28,6 +28,8 @@ Email:
 
 ## License
 
+(c) Luca Brigada Villa, Università di Pavia
+
 Licensed under the [MIT License](LICENSE)
 
 ===================================
