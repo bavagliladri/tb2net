@@ -95,7 +95,7 @@ Argument | Description | Required
 -l, --lemma | if this option is specified, produce a lemma-based network, otherwise a word-based network | No
 -n NODES\_FILE, --nodes NODES\_FILE | path where to create the node file (default: nodes.csv) | No
 -e EDGES\_FILE, --edges EDGES\_FILE | path where to create the edges file (default: edges.csv) | No
-- o METRICS\_FILE, --output METRICS\_FILE | path where to create the file in which the topological indexes are stored | No
+-o METRICS\_FILE, --output METRICS\_FILE | path where to create the file in which the topological indexes are stored | No
 -h, --help | Show the description and the usage of the script | No
 
 
