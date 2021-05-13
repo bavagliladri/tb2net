@@ -152,7 +152,7 @@ def build_tb(ud_file):
     for l in lines:
         if l[0] not in '#\n':
             fields = l.split('\t')
-            if fields[0] not in '.-':
+            if '.-' not in fields[0]:
                 id, form, lemma, upos, head, deprel = int(fields[0]), fields[1], fields[2], fields[3], int(fields[6]), fields[7]
                 token = Token(id, form, lemma, upos, head, deprel)
                 if token.upos not in ['PUNCT', 'SYM']:
