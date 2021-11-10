@@ -98,4 +98,4 @@ print(f'{indexes}\n\n\n')
 
 ex_time = time.time() - start_time
 logger.info(f'Script executed without errors - Execution time: {round(ex_time, 2)} seconds')
-print('Author: Luca Brigada Villa - Contact: lucabrigadavilla@gmail.com - Licensed under the MIT License')
+print('Author: Luca Brigada Villa - Contact: luca.brigadavilla@unibg.it')

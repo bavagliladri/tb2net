@@ -1,8 +1,19 @@
+<div align="center">
+
 # tb2net
+
+[![Paper](http://img.shields.io/badge/paper-ACL--anthology-B31B1B.svg)](https://aclanthology.org/2021.sigtyp-1.2/)
+[![Conference](https://img.shields.io/badge/conference-NAACL--2021-blue.svg)](https://2021.naacl.org/)
+[![Workshop](https://img.shields.io/badge/workshop-SIGTYP--2021-orange.svg)](https://sigtyp.github.io/workshop.html)
+[![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc/4.0/)
+
+</div>
 
 ## Description
 
-tb2net is a python script that converts UD Treebanks into dependency networks and extracts some network metrics.
+tb2net is a python script that converts UD Treebanks into dependency networks and extracts some network metrics. This repository
+contains all the scripts and data used in the paper *Inferring Morphological Complexity from Syntactic Dependency Networks: A Test* by
+Guglielmo Inglese and Luca Brigada Villa.
 
 ## Requirements
 
@@ -71,7 +82,7 @@ R^2: 0.9212672593500402
 
 
 2021-04-28 21:26:51 - Script executed without errors - Execution time: 0.52 seconds
-Author: Luca Brigada Villa - Contact: lucabrigadavilla@gmail.com - Licensed under the MIT License
+Author: Luca Brigada Villa - Contact: luca.brigadavilla@unibg.it
 ```
 
 If you look at the directory, you will see that two new files were created after the execution of the script: **nodes.csv** and **edges.csv**. This two files contain the lists of the nodes of the network built upon the UD treebank. Such files may be imported in other softwares for network visualization and analysis. If you don't need them, you can delete them after the execution of the script.
@@ -101,13 +112,11 @@ Argument | Description | Required
 
 ## Contacts
 
-### Luca Brigada Villa
+### [Luca Brigada Villa](bavagliladri.github.io)
 
-University of Pavia (Italy)
+University of Bergamo / Pavia (Italy)
 
-Email: lucabrigadavilla@gmail.com
-
-Twitter: [@bavagliladri](https://twitter.com/bavagliladri)
+Email: luca.brigadavilla@unibg.it
 
 ### Guglielmo Inglese
 
@@ -115,9 +124,24 @@ KU Leuven (Belgium)
 
 Email: guglielmo.inglese@kuleuven.be
 
-## License
+## Cite this work
+```bibtex
+@inproceedings{inglese-brigada-villa-2021-inferring,
+    title = "Inferring Morphological Complexity from Syntactic Dependency Networks: A Test",
+    author = "Inglese, Guglielmo  and
+      Brigada Villa, Luca",
+    booktitle = "Proceedings of the Third Workshop on Computational Typology and Multilingual NLP",
+    month = jun,
+    year = "2021",
+    address = "Online",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2021.sigtyp-1.2",
+    doi = "10.18653/v1/2021.sigtyp-1.2",
+    pages = "10--22",
+}
+```
 
-© Luca Brigada Villa
+## Licence
 
-Licensed under the [MIT License](LICENSE)
-
+This work is licences under the [Creative Commons Attribution-NonCommercial 4.0 International Public License](https://creativecommons.org/licenses/by-nc/4.0/legalcode)
+except for the treebank files whose licences can be consulted [here](https://lindat.mff.cuni.cz/repository/xmlui/page/licence-UD-2.1).
