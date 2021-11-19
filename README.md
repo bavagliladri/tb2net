@@ -141,7 +141,7 @@ Email: guglielmo.inglese@kuleuven.be
 }
 ```
 
-## Licence
+## License
 
 This work is licences under the [Creative Commons Attribution-NonCommercial 4.0 International Public License](https://creativecommons.org/licenses/by-sa/4.0/legalcode)
-except for the treebank files whose licences can be consulted [here](https://universaldependencies.org/).
+except for the treebank files whose licenses can be consulted [here](https://universaldependencies.org/).
