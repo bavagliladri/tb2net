@@ -5,7 +5,7 @@
 [![Paper](http://img.shields.io/badge/paper-ACL--anthology-B31B1B.svg)](https://aclanthology.org/2021.sigtyp-1.2/)
 [![Conference](https://img.shields.io/badge/conference-NAACL--2021-blue.svg)](https://2021.naacl.org/)
 [![Workshop](https://img.shields.io/badge/workshop-SIGTYP--2021-orange.svg)](https://sigtyp.github.io/workshop.html)
-[![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc/4.0/)
+[![License: CC BY-SA 4.0](https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-sa/4.0/)
 
 </div>
 
@@ -143,5 +143,5 @@ Email: guglielmo.inglese@kuleuven.be
 
 ## Licence
 
-This work is licences under the [Creative Commons Attribution-NonCommercial 4.0 International Public License](https://creativecommons.org/licenses/by-nc/4.0/legalcode)
-except for the treebank files whose licences can be consulted [here](https://lindat.mff.cuni.cz/repository/xmlui/page/licence-UD-2.1).
+This work is licences under the [Creative Commons Attribution-NonCommercial 4.0 International Public License](https://creativecommons.org/licenses/by-sa/4.0/legalcode)
+except for the treebank files whose licences can be consulted [here](https://universaldependencies.org/).
