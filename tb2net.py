@@ -35,7 +35,7 @@ logger.addHandler(ch)
 parser = argparse.ArgumentParser(description='tb2net is a python script that converts UD Treebanks into dependency'
                                              ' networks and extracts some network metrics.\n'
                                              'Author: Luca Brigada Villa - Contact: lucabrigadavilla@gmail.com -'
-                                             ' Licensed under the MIT License',
+                                             ' Licensed under a CC-BY-SA License',
                                  formatter_class=argparse.RawTextHelpFormatter)
 required = parser.add_argument_group('required arguments')
 required.add_argument('-i', '--input', action='store', dest='ud_file',
